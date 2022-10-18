@@ -10,14 +10,17 @@ github study
 
 lets learn something
 
-Welcome to EC
-# Licenses
+
+
 
 # Day1
 ## github study
 ### lets learn something
 welcome to EC
-License
+
+
+
+#License
 
 
 1) MIT License
