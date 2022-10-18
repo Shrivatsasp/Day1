@@ -20,7 +20,7 @@ welcome to EC
 
 
 
-##License
+License
 
 
 1) MIT License
