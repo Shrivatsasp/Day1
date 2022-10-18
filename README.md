@@ -38,6 +38,8 @@ The GNU General Public License (GNU GPL or simply GPL) is a series of widely use
 
 4)BSD 2 Clouse License
 Also known as the “simplified BSD license” and "freeBSD license," the 2-Clause BSD license omits the third clause of the BSD 3 (also known as the “non-endorsement clause”). This is the clause that prohibits users from using the name of the project to promote their derivative work (s).
+
+#c coding matrix
 include <stdio.h>
 int main() {
   int r, c, a[100][100], b[100][100], sum[100][100], i, j;
