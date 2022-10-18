@@ -1,2 +1,4 @@
 # Day1
-hello world
+github study
+lets learn something
+welcome to ece
